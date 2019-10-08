@@ -27,6 +27,9 @@ set nobackup
 set nosmartindent
 set noautoindent
 set ruler
+
+colorscheme darkblue
+
 ```
 
 ### System Verilog支持  
